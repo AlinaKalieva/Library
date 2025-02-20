@@ -1,10 +1,12 @@
-Overview:
+<span style="font-size: 24px">Data Cleansing Project</span>
+
+*Overview:*
 
 This project focused on developing a data cleaning pipeline, from its initial setup to deployment and visualization. The goal was to automate the data cleaning process, trigger the pipeline through CI/CD, and connect the cleaned data to PowerBI to show the process statistic and to allow data analysts to use it in teh future for creating meaningful insights. The project followed a systematic approach, ensuring code versioning, testing, deployment, and visualization, to meet business intelligence needs effectively.
 
 ![example_data_before](image-1.png)
 
-What Was Done:
+*What Was Done:*
 
 1. Set up GitHub Repository for Project:
 Created a GitHub repository to manage the project code, track changes, and facilitate collaboration using version control.
@@ -31,7 +33,7 @@ Containerized the Python application using Docker to ensure portability and ease
 7. Connected a newly created databse to Power BI Dashboard:
 Imported the cleaned data into Power BI to to show the process statistic and to allow data analysts to use it in teh future for creating meaningful insights.
 
-Learnings:
+*Learnings:*
 
 1. Arranging Code in the Correct Order:
 
@@ -47,7 +49,7 @@ Even though the code was thoroughly tested in Jupyter notebooks, moving it to a 
 
 These complications required extra time to solve, which contributed to the overall hours spent on the project. It's important to consider such challenges for future projects as key learnings, as they can help with better planning, more accurate time estimations, and smoother execution in future work.
 
-Benefits of the Project:
+*Benefits of the Project:*
 
 1. Importance of Using Cleaned Data:
 
@@ -57,6 +59,6 @@ The project ensured that only high-quality, clean data was used for analysis, wh
 
 The code developed for this project is modular and can be easily adapted with little adjustments to clean other datasets in the future. This flexibility reduces time and effort when handling new data, making it a scalable solution for ongoing data processing tasks.
 
-Conclusion:
+*Conclusion:*
 
 The project successfully implemented an automated data cleaning pipeline, ensuring high-quality. By integrating Python for data processing, Docker for containerization, and Power BI for visualization, we created a robust solution that streamlined data handling and enhanced data-driven decision-making.
