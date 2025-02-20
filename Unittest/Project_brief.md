@@ -15,8 +15,11 @@ Visualized the flow of the data cleaning pipeline, highlighting key components s
 ![Diagramm](Architecture.png)
 
 ### 3. Implemented Python Application for Data Cleaning:
-Developed a Python application that processes and cleans raw data, handling missing values, duplicates, and enrich the data.
+
 ![example_data_before](image-1.png)
+
+Developed a Python application that processes and cleans raw data, handling missing values, duplicates, and enrich the data.
+
 
 ### 4. Tested the Python Application:
 Conducted thorough testing to ensure the data cleaning application works as expected, identifying and resolving any bugs or performance issues.
