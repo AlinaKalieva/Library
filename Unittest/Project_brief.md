@@ -2,7 +2,7 @@
 
 ## Overview:
 
-This project focused on developing a data cleaning pipeline, from its initial setup to deployment and visualization. The goal was to automate the data cleaning process, trigger the pipeline through CI/CD, and connect the cleaned data to PowerBI to show the process statistic and to allow data analysts to use it in the future for creating meaningful insights. The project followed a systematic approach, ensuring code versioning, testing, deployment, and visualization, to meet business intelligence needs effectively.
+This project focused on developing a data cleaning pipeline, from its initial setup to deployment and visualization. The goal was to automate the data cleaning process, trigger the pipeline, write cleaned data into the database and connect the database to PowerBI to allow data analysts to use it in the future for creating meaningful insights. The project followed a systematic approach, ensuring code versioning, testing, deployment, and visualization, to meet business intelligence needs effectively.
 
 ## What Was Done:
 
