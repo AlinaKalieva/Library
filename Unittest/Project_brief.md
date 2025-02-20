@@ -4,8 +4,6 @@
 
 This project focused on developing a data cleaning pipeline, from its initial setup to deployment and visualization. The goal was to automate the data cleaning process, trigger the pipeline through CI/CD, and connect the cleaned data to PowerBI to show the process statistic and to allow data analysts to use it in the future for creating meaningful insights. The project followed a systematic approach, ensuring code versioning, testing, deployment, and visualization, to meet business intelligence needs effectively.
 
-![example_data_before](image-1.png)
-
 ## What Was Done:
 
 ### 1. Set up GitHub Repository for Project:
@@ -18,6 +16,7 @@ Visualized the flow of the data cleaning pipeline, highlighting key components s
 
 ### 3. Implemented Python Application for Data Cleaning:
 Developed a Python application that processes and cleans raw data, handling missing values, duplicates, and enrich the data.
+![example_data_before](image-1.png)
 
 ### 4. Tested the Python Application:
 Conducted thorough testing to ensure the data cleaning application works as expected, identifying and resolving any bugs or performance issues.
